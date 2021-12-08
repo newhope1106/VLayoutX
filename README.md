@@ -2,7 +2,7 @@
 Extend From VLayout, and it will support Android X
 从VLayout库克隆，支持Android X的RecyclerView
 
-参考：https://github.com/alibaba/vlayout
+详细使用说明，参考：https://github.com/alibaba/vlayout
 
 # Main Feature
 Provide default common layout implementation, decouple the View and Layout. Default layout implementations are:
