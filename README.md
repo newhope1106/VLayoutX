@@ -1,6 +1,6 @@
 # XVLayout
-Extend From VLayout, and it will support Android X
-从VLayout库克隆，支持Android X的RecyclerView
+Extend From VLayout, and it will support Android X <br/>
+从VLayout库克隆，支持Android X的RecyclerView <br/>
 
 详细使用说明，参考：https://github.com/alibaba/vlayout
 
